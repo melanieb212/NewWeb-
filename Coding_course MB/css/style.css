@@ -1,0 +1,15 @@
+.Header {width: auto; height: 100px;
+   background-color: green;
+ }
+
+h1{
+   colour:white;
+ font-size:35;
+font-style:oblique;}
+
+ .x {
+   display: block;
+   margin-left: auto;
+   margin-right: auto;
+   width: 20%;
+ }
